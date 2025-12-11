@@ -1,6 +1,8 @@
 # flight-on-time-API-Data_Science_Team
-Oracle Next Education Hackathon provided by Oracle, Alura and NoCountry
+Oracle Next Education Hackathon organizado por Oracle, Alura e NoCountry
 
-Repository to be used by the Data Science team
-
-Final project will be, likely, in another repositoty
+Repositório que será utilizado pelo time de Ciência de Dados
+##
+### *** Membros da equipe, favor enviar-me o GitHub de vocês para que eu possa adicioná-los nesse repositório. Assim, todos terão permissão para realizar ações aqui. ***
+##
+O projeto final deverá estar, muito provavelmente, em outro repositório.
