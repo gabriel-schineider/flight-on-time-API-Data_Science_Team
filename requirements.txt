@@ -1,9 +1,6 @@
 
----
 
-# 📦 requirements.txt 
 
-```txt
 python==3.12.12
 
 numpy==2.0.2
