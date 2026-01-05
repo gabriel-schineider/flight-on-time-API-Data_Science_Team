@@ -102,6 +102,15 @@ eh_fim_de_semana
 
 ```
 
+ ## 📌 Ambiente
+
+- Python 3.12.12
+- numpy 2.0.2
+- pandas 2.2.2
+- scikit-learn 1.6.1
+- xgboost 3.1.2
+
+
 ## 🚀 Próximos Passos (Trabalhos Futuros)
 
 * Ajuste fino do threshold conforme estratégia operacional
