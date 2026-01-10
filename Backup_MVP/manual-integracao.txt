@@ -42,7 +42,7 @@ Input:
 Output:
 {
   "previsao_atraso": 1,
-  "probabilidade": 0.89
+  "probabilidade_atraso": 0.89
 }
 
 ---
@@ -92,4 +92,5 @@ Para cada requisição:
 Executar para receber:
 predict() → atraso (0 ou 1)
 predict_proba() → probabilidade de atraso
+
 
