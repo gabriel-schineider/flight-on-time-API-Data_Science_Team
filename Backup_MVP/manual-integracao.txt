@@ -45,6 +45,9 @@ Output:
   "probabilidade_atraso": 0.89
 }
 
+threshold = 0.45
+Um voo é considerado como atrasado se a probabilidade for maior ou igual a 0.45
+
 ---
 
 2. Carregamento do modelo (na inicialização da API)
@@ -92,5 +95,6 @@ Para cada requisição:
 Executar para receber:
 predict() → atraso (0 ou 1)
 predict_proba() → probabilidade de atraso
+
 
 
