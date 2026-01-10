@@ -37,7 +37,7 @@ Input:
   "icao_aerodromo_destino": "SBRJ",
   "partida_prevista": "2026-02-10T14:30:00",
   "tempo_voo_estimado_hr": 1.2,
-  "distancia_km": 350
+  "distancia_km": 350.3
 }
 Output:
 {
@@ -63,7 +63,7 @@ Esse carregamento ocorre uma única vez.
 Para cada requisição:
 
   3.1 Derivar features temporais
-    A partir de partida_prevista, derivar:
+    A partir da variável "partida_prevista", derivar variáveis:
        mes
        turno
 
@@ -92,3 +92,4 @@ Para cada requisição:
 Executar para receber:
 predict() → atraso (0 ou 1)
 predict_proba() → probabilidade de atraso
+
